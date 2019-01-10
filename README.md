@@ -1,7 +1,7 @@
 ### Build
 Build docker image for our nodejs app. Configuration for it included in Dockerfile. This may take few minutes to download based image.
 ```$xslt
-docker build -t vineet/node-docker-demo
+docker build -t vineet/node-docker-demo .
 ```
 
 ### Validate new image
